@@ -11,7 +11,7 @@ ActivitiDemo
 2. 在 MySQL 中创建数据库。
 3. 执行 src/main/sql/groupuser.sql 脚本。
 4. 配置 Tomcat，并运行该应用。
-5. 可参照http://www.burgleaf.com/archives/207 
+5. 可参照http://www.binf.me/archives/207 
 
 
 ----------------------------------------------------------------------
